@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="intern_java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/intern_java_jar</output-path>
+    <root id="archive" name="intern_java.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="intern_java.main" />
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.8.2" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/18-ea+6/e07a74a4a46ebfad871d7d95dfd843857820d0d3/javafx-base-18-ea+6-win.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.8.2" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/18-ea+6/d000267e0663c633ce72ecb120c0580ee3952381/javafx-fxml-18-ea+6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/18-ea+6/1d81a6e067a56be1e72f81677c34abc2b63dc5dd/javafx-controls-18-ea+6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/18-ea+6/30b9dfcaa792786a74a19e79e850d94a695faf7e/javafx-base-18-ea+6.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: org.opentest4j:opentest4j:1.2.0" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/18-ea+6/428821eb734c440c977eab138abefc2c2352183d/javafx-graphics-18-ea+6-win.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: org.junit.platform:junit-platform-engine:1.8.2" />
+      <element id="library" level="project" name="Gradle: org.junit.platform:junit-platform-commons:1.8.2" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/18-ea+6/6ac48353e221e0aea3fe7602e30725cc1d4eb9fa/javafx-controls-18-ea+6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/18-ea+6/5e42c652852c163dcd816a6eb688274bd00048bb/javafx-graphics-18-ea+6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
